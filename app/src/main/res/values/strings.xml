@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NoteApp</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="no_emty">Поля не должны быть пустыми</string>
+    <string name="edit">Edit</string>
 </resources>
