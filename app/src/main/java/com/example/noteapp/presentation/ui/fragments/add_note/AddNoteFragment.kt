@@ -8,7 +8,7 @@ import androidx.lifecycle.repeatOnLifecycle
 import androidx.navigation.fragment.findNavController
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.example.noteapp.domain.model.Note
-import com.example.architecnotes.presentation.ui.base.BaseFragment
+import com.example.noteapp.presentation.ui.base.BaseFragment
 import com.example.noteapp.R
 import com.example.noteapp.databinding.FragmentAddNoteBinding
 import com.example.noteapp.presentation.ui.fragments.note.NoteFragment.Companion.ARGS_EDIT

@@ -3,7 +3,7 @@ package com.example.noteapp.presentation.ui.fragments.add_note
 import com.example.noteapp.domain.model.Note
 import com.example.noteapp.domain.usecases.CreateNoteUseCase
 import com.example.noteapp.domain.usecases.EditNoteUseCase
-import com.example.architecnotes.presentation.ui.base.BaseViewModel
+import com.example.noteapp.presentation.ui.base.BaseViewModel
 import com.example.noteapp.presentation.utils.UIState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow

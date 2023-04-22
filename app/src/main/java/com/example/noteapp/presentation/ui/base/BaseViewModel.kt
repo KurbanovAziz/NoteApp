@@ -1,4 +1,4 @@
-package com.example.architecnotes.presentation.ui.base
+package com.example.noteapp.presentation.ui.base
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

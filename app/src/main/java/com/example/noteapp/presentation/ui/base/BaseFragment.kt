@@ -1,4 +1,4 @@
-package com.example.architecnotes.presentation.ui.base
+package com.example.noteapp.presentation.ui.base
 
 import android.os.Bundle
 import android.view.View
